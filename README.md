@@ -3,4 +3,4 @@
 
 # 必须环境
 1. php版本: >= 5.4.0
-2. 必须扩展: curl, fileinfo, openssl,redis
+2. 必须扩展: curl, fileinfo, openssl, redis
