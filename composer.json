@@ -1,7 +1,8 @@
 {
    "name" : "engineerv/php-weixin",
    "description": "微信功能类",
-   "license": "MIT",   
+   "license": "MIT",
+   "minimum-stability": "dev"   
    "authors": [
      {
 	"name": "enginnerv",
