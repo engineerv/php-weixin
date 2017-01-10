@@ -1,6 +1,7 @@
 {
    "name" : "engineerv/php-weixin",
    "description": "微信功能类",
+   
    "authors": [
      {
 	"name": "enginnerv",
@@ -9,6 +10,7 @@
    ],
    
    "require":{
-      "php" : ">=5.4"
+      "php" : ">=5.4",
+      "engineerv/php-weixin": "1.0"
     }
 }
