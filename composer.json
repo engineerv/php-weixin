@@ -2,7 +2,7 @@
    "name" : "engineerv/php-weixin",
    "description": "微信功能类",
    "license": "MIT",
-   "minimum-stability": "dev"   
+   "minimum-stability": "dev",   
    "authors": [
      {
 	"name": "enginnerv",
