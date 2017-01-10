@@ -1,7 +1,7 @@
 {
    "name" : "engineerv/php-weixin",
    "description": "微信功能类",
-   
+   "license": "MIT",   
    "authors": [
      {
 	"name": "enginnerv",
@@ -13,4 +13,11 @@
       "php" : ">=5.4",
       "engineerv/php-weixin": "1.0"
     }
+
+   "autoload":{
+      "psr-4"{
+        "php-weixin\\": "wchat",
+	"Vendor\\Namespace\\": ""
+       }
+   }
 }
