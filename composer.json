@@ -1,0 +1,14 @@
+{
+   "name" : "engineerv/php-weixin",
+   "description": "微信功能类",
+   "authors": [
+     {
+	"name": "enginnerv",
+	"email": "794207969@qq.com"
+     }
+   ],
+   
+   "require":{
+      "php" : ">=5.4"
+    }
+}
